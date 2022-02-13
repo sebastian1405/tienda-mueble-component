@@ -1,0 +1,14 @@
+/* .container {
+  max-width: 120rem;
+  margin: 0 auto;
+} */
+.text-center {
+  text-align: center;
+}
+.header h1 {
+  margin: 4rem auto 2rem;
+  font-size: 3rem;
+}
+span {
+  color: blue;
+}

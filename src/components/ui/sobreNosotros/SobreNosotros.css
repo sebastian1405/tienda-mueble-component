@@ -1,0 +1,27 @@
+.contenedor {
+  max-width: 68rem;
+  margin: 0 auto;
+}
+.sobre-nosotros {
+  background-image: linear-gradient(
+      to right,
+      transparent 50%,
+      #037bc0 50%,
+      #037bc0 1000%
+    ),
+    url(../../../assets/images/nosotros.jpg);
+  padding: 5rem 0;
+  background-size: 100%, 90rem;
+  background-position: left center;
+  margin-top: 5rem;
+}
+.sobre-nosotros-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 5rem;
+}
+.texto-nosotros {
+  grid-column: 2 / 3;
+  color: #ffffff;
+  padding: 2rem;
+}

@@ -1,0 +1,13 @@
+.text-center {
+  text-align: center;
+}
+/* .container {
+  max-width: 68rem;
+  margin: 0 auto;
+} */
+.categorias {
+  padding-top: 3.2rem;
+}
+.categorias h2 {
+  margin: 0 0 1.5rem;
+}
